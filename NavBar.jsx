@@ -14,7 +14,7 @@ function Navbar2(){
             className="d-inline-block align-text-top"
           />
 
-          Bootstrap
+          Rango Brabo
         </a>
 
       </div>
